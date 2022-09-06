@@ -4,5 +4,7 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"livePreview.defaultPreviewPath": "c:\\Users\\hirok\\Documents\\SoftwareProjects\\hiproco.github.io\\index.html"
+	}
 }
