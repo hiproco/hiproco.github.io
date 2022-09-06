@@ -5,6 +5,7 @@
 		}
 	],
 	"settings": {
-		"livePreview.defaultPreviewPath": "c:\\Users\\hirok\\Documents\\SoftwareProjects\\hiproco.github.io\\index.html"
+		"livePreview.defaultPreviewPath": "c:\\Users\\hirok\\Documents\\SoftwareProjects\\hiproco.github.io\\index.html",
+		"task.allowAutomaticTasks": "off"
 	}
 }

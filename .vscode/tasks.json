@@ -16,7 +16,15 @@
         {
             "label": "build",
             "dependsOrder": "sequence",
-            "dependsOn":["build wasm", "adjust pkg ignore"]
+            "dependsOn": [
+                "build wasm",
+                "adjust pkg ignore"
+            ],
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
         }
     ],
     "options": {
